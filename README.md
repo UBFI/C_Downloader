@@ -1,3 +1,3 @@
 # C_Downloader
-A purely native downloader in C , great for creating a builder
+A winapi downloader in C , great for creating a builder
 #SkidProof
